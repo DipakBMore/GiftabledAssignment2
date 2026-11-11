@@ -1,0 +1,1 @@
+Loops and branching	for, while, if, else	Reverse a number; check a palindrome; count the digits in a number; check whether a number is prime; print a multiplication grid; print a number pyramid.
